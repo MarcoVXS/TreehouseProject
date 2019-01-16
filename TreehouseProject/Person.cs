@@ -8,5 +8,8 @@ namespace TreehouseProject
 {
     class Person
     {
+        public string Name { get; set; }
+        public string Adress { get; set; }
+
     }
 }
